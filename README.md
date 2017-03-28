@@ -29,6 +29,6 @@ Cryptography is an indispensable tool for protecting information in computer sys
 
 * Background on discrete probability: [html](http://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability)
 
-* A course in applied cryptography: [html](http://cryptobook.us/)
+* A course in applied cryptography: [[html](http://cryptobook.us/)]
 
 * Computational number theory: [pdf](http://shoup.net/ntb/ntb-v2.pdf)
