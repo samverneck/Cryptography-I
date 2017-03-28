@@ -24,3 +24,11 @@ Cryptography is an indispensable tool for protecting information in computer sys
 * Many of the modules contain links to research papers for further readings. These are intended for participants interested in learning more about the material covered. These further readings are optional.
 
 * There will be a final exam (no midterm) that is similar in style to the problem sets, but covers the material of the entire course.
+
+**Links to free resources to supplement the lectures:**
+
+* Background on discrete probability: [html]
+
+* A course in applied cryptography: [html]
+
+* Computational number theory: [pdf]
